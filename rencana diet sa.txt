@@ -1,5 +1,7 @@
 rencana
 - pisang
+ * dibikin oatmeal
+ * dijus
 - alpukat
 - nasi merah
 - hasihdas
