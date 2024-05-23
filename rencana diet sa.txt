@@ -2,9 +2,11 @@ rencana
 - pisang
  * dibikin oatmeal
  * dijus
- * di rendang
- * di goreng
+ * digado
+ * digoreng
+- alpukat
 - nasi merah
- *nasgor
+  *nasgor
 - hasihdas
 - nasi porang
+-shirataki
